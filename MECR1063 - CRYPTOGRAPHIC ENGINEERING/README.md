@@ -1,4 +1,4 @@
-# MECR1063 – Cryptographic Engineering (Full Course Portfolio)
+# MECR1063 – Cryptographic Engineering 
 
 **Semester:** 2 | **Year:** 2025/2026 | **Instructor:** Dr. Muhalim Bin Mohamed Amin
 

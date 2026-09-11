@@ -1,4 +1,4 @@
-# MECR2323 – Secure Software Engineering (Full Course Portfolio)
+# MECR2323 – Secure Software Engineering 
 
 **Semester:** 2 | **Year:** 2025/2026 | **Instructor:** Ts Dr. Mohd Zamri bin Osman
 
